@@ -1,4 +1,1 @@
-<div align="center">
-  <img src="./banner.gif" width="100%" alt="banner"/>
-</div>
-
+<img src="https://raw.githubusercontent.com/OwnThemAll/OwnThemAll/main/banner.gif" width="100%"/>
