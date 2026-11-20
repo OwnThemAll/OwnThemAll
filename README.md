@@ -1,1 +1,1 @@
-![Profile Banner](./banner.gif)
+<img src="https://raw.githubusercontent.com/OwnThemAll/OwnThemAll/main/banner.gif?raw=true" width="498" alt="Profile Banner">
