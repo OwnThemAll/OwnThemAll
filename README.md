@@ -3,7 +3,3 @@
 </div>
 
 ## Hi there 👋
-
-<!--
-**OwnThemAll/OwnThemAll** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
--->
